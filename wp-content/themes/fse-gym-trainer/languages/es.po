@@ -1,0 +1,1279 @@
+# Copyright (C) 2024 Creta Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: FSE Gym Trainer 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/fse-gym-trainer\n"
+"POT-Creation-Date: 2024-11-05T14:27:12+05:30\n"
+"PO-Revision-Date: 2024-11-05 14:27+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Domain: fse-gym-trainer\n"
+
+#. Theme Name of the theme
+#: style.css inc/block-patterns.php:11 patterns/footer-columns.php:101
+msgid "FSE Gym Trainer"
+msgstr "FSE Gym Trainer"
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.cretathemes.com/products/free-gym-wordpress-theme"
+msgstr "https://www.cretathemes.com/products/free-gym-wordpress-theme"
+
+#. Description of the theme
+#: style.css
+msgid ""
+"FSE Gym Trainer is a sporty WordPress theme meticulously crafted for gym "
+"trainers, personal trainers, fitness coaches, and other fitness "
+"professionals looking to establish a robust online presence. This theme is "
+"perfect for showcasing services like weight training, weight training, "
+"strength training, cardio training, functional training, HIIT training, "
+"circuit training, resistance training, bodybuilding, powerlifting, muscle "
+"building, endurance training, fitness routines, gym workouts, exercise "
+"programs, personal training, athletic conditioning, power exercises, "
+"recovery workouts, training plans, fitness goals, strength training, cardio "
+"training, functional training, HIIT training, and circuit training. With a "
+"sleek and modern design, the theme exudes a professional aesthetic that "
+"appeals to fitness enthusiasts and potential clients. Visually, the FSE Gym "
+"Trainer WordPress Theme features a clean layout with bold typography and "
+"high-quality images that highlight various aspects of fitness training. The "
+"intuitive design includes customizable sections for personal training "
+"sessions, private training, gym workouts, exercise routines, and training "
+"programs. This ensures that visitors can easily navigate through different "
+"services and offerings, making it simple to find information on fitness "
+"assessments, body composition analysis, and custom workout plans. In "
+"addition to its functional benefits, the FSE Gym Trainer WordPress Theme "
+"includes dedicated areas for fitness goals and testimonials, allowing "
+"trainers to build credibility and trust with prospective clients. The FSE "
+"Gym Trainer WordPress Theme combines aesthetic appeal with practical "
+"functionality, making it an excellent choice for fitness professionals "
+"aiming to grow their business online and attract new clients."
+msgstr ""
+"FSE Gym Trainer es un tema deportivo de WordPress meticulosamente diseñado "
+"para entrenadores de gimnasio, entrenadores personales, entrenadores de "
+"fitness y otros profesionales del fitness que buscan establecer una sólida "
+"presencia en línea. Este tema es perfecto para mostrar servicios como "
+"entrenamiento de pesas, entrenamiento de fuerza, entrenamiento de cardio, "
+"entrenamiento funcional, entrenamiento HIIT, entrenamiento en circuito, "
+"entrenamiento de resistencia, culturismo, levantamiento de pesas, "
+"desarrollo muscular, entrenamiento de resistencia, rutinas de fitness, "
+"entrenamientos de gimnasio, programas de ejercicio, entrenamiento "
+"personalizado, acondicionamiento atlético, ejercicios de potencia, "
+"entrenamientos de recuperación, planes de entrenamiento, objetivos de "
+"fitness, entrenamiento de fuerza, entrenamiento de cardio, entrenamiento "
+"funcional, entrenamiento HIIT y entrenamiento en circuito. Con un diseño "
+"elegante y moderno, el tema emana una estética profesional que atrae a los "
+"entusiastas del fitness y a los posibles clientes. Visualmente, el tema "
+"FSE Gym Trainer presenta un diseño limpio con tipografía audaz e imágenes "
+"de alta calidad que resaltan varios aspectos del entrenamiento físico. El "
+"diseño intuitivo incluye secciones personalizables para sesiones de "
+"entrenamiento personal, entrenamiento privado, entrenamientos de gimnasio, "
+"rutinas de ejercicios y programas de entrenamiento. Esto asegura que los "
+"visitantes puedan navegar fácilmente a través de los diferentes servicios y "
+"ofertas, facilitando la búsqueda de información sobre evaluaciones de "
+"fitness, análisis de composición corporal y planes de entrenamiento "
+"personalizados. Además de sus beneficios funcionales, el tema FSE Gym "
+"Trainer de WordPress incluye áreas dedicadas a los objetivos de fitness y "
+"testimonios, lo que permite a los entrenadores construir credibilidad y "
+"confianza con los clientes potenciales. El tema FSE Gym Trainer combina "
+"atractivo estético con funcionalidad práctica, lo que lo convierte en una "
+"excelente opción para los profesionales del fitness que buscan hacer crecer "
+"su negocio en línea y atraer nuevos clientes."
+
+#. Author of the theme
+#: style.css
+msgid "Creta Themes"
+msgstr "Creta Themes"
+
+#. Author URI of the theme
+#: style.css
+msgid "https://cretathemes.com/"
+msgstr "https://cretathemes.com/"
+
+#: functions.php:47
+msgid "https://www.cretathemes.com/products/gym-trainer-wordpress-theme"
+msgstr "https://www.cretathemes.com/products/gym-trainer-wordpress-theme"
+
+#: functions.php:48
+msgid "https://pattern.cretathemes.com/fse-gym-trainer/"
+msgstr "https://pattern.cretathemes.com/fse-gym-trainer/"
+
+#: functions.php:49
+msgid "https://pattern.cretathemes.com/free-guide/fse-gym-trainer/"
+msgstr "https://pattern.cretathemes.com/free-guide/fse-gym-trainer/"
+
+#: functions.php:50
+msgid "https://pattern.cretathemes.com/pro-guide/fse-gym-trainer/"
+msgstr "https://pattern.cretathemes.com/pro-guide/fse-gym-trainer/"
+
+#: functions.php:51
+msgid "https://wordpress.org/support/theme/fse-gym-trainer/"
+msgstr "https://wordpress.org/support/theme/fse-gym-trainer/"
+
+#: functions.php:52
+msgid "https://wordpress.org/support/theme/fse-gym-trainer/reviews/#new-post"
+msgstr "https://wordpress.org/support/theme/fse-gym-trainer/reviews/#new-post"
+
+#: functions.php:93
+msgid "Hey, Thank you for installing FSE Gym Trainer Theme!"
+msgstr "¡Hola, gracias por instalar el tema FSE Gym Trainer!"
+
+#: functions.php:94
+msgid "Navigate Getstart"
+msgstr "Navegar Comenzar"
+
+#: functions.php:94 inc/get-started/get-started.php:58
+msgid "Site Editor"
+msgstr "Editor del sitio"
+
+#: functions.php:95
+msgid "Dismiss"
+msgstr "Descartar"
+
+#: inc/block-patterns.php:12
+msgid "Pages"
+msgstr "Páginas"
+
+#: inc/block-styles.php:17
+msgid "No Padding"
+msgstr "Sin Espaciado"
+
+#: inc/block-styles.php:26 inc/block-styles.php:44 inc/block-styles.php:53
+#: inc/block-styles.php:63 inc/block-styles.php:73 inc/block-styles.php:82
+msgid "Theme Style"
+msgstr "Estilo del Tema"
+
+#: inc/block-styles.php:35
+msgid "Plain"
+msgstr "Simple"
+
+#: inc/customizer.php:84
+msgid "FSE Gym Trainer Pro"
+msgstr "FSE Gym Trainer Pro"
+
+#: inc/customizer.php:85
+msgid "GET PRO"
+msgstr "OBTENER PRO"
+
+#: inc/get-started/get-started.php:4
+msgid "Get Started"
+msgstr "Comenzar"
+
+#: inc/get-started/get-started.php:22
+msgid "Free Full Site Editing WordPress Theme"
+msgstr "Tema de WordPress de Edición Completa Gratuito"
+
+#: inc/get-started/get-started.php:24
+msgid "Theme Documentation"
+msgstr "Documentación del Tema"
+
+#: inc/get-started/get-started.php:39
+msgid "Leave Us A Review"
+msgstr "Déjanos una Reseña"
+
+#: inc/get-started/get-started.php:40
+msgid "Are you enjoying our theme? We would love to hear your feedback."
+msgstr "¿Estás disfrutando de nuestro tema? Nos encantaría escuchar tus comentarios."
+
+#: inc/get-started/get-started.php:42
+msgid "Rate Us"
+msgstr "Valóranos"
+
+#: inc/get-started/get-started.php:47
+msgid "Need Help?"
+msgstr "¿Necesitas Ayuda?"
+
+#: inc/get-started/get-started.php:48
+msgid "Go to our support forum to help you out in case of queries."
+msgstr "Ve a nuestro foro de soporte para ayudarte en caso de dudas."
+
+#: inc/get-started/get-started.php:50
+msgid "Get Support"
+msgstr "Obtener Soporte"
+
+#: inc/get-started/get-started.php:55
+msgid "Theme Customization"
+msgstr "Personalización del Tema"
+
+#: inc/get-started/get-started.php:56
+msgid "Effortlessly modify and maintain your site using editor."
+msgstr "Modifica y mantén tu sitio sin esfuerzo utilizando el editor."
+
+#: inc/get-started/get-started.php:66
+msgid "Go For Premium"
+msgstr "Opta por Premium"
+
+#: inc/get-started/get-started.php:67
+msgid "Are you exited for our theme? Proceed for pro version of theme."
+msgstr "¿Estás emocionado por nuestro tema? Procede a la versión pro del tema."
+
+#: inc/get-started/get-started.php:69
+msgid "Pro Documentation"
+msgstr "Documentación Pro"
+
+#: inc/get-started/get-started.php:70
+msgid "Buy Pro"
+msgstr "Comprar Pro"
+
+#: inc/get-started/get-started.php:71
+msgid "Pro Demo"
+msgstr "Demo Pro"
+
+#: inc/get-started/get-started.php:74
+msgid "Responsive Design"
+msgstr "Diseño Responsivo"
+
+#: inc/get-started/get-started.php:75
+msgid "Demo Content Import"
+msgstr "Importación de Contenido de Demostración"
+
+#: inc/get-started/get-started.php:76
+msgid "Aditional plugins"
+msgstr "Plugins Adicionales"
+
+#: inc/get-started/get-started.php:77
+msgid "Background sliders"
+msgstr "Deslizadores de Fondo"
+
+#: inc/get-started/get-started.php:78
+msgid "Video popups"
+msgstr "Ventanas emergentes de video"
+
+#: inc/get-started/get-started.php:79
+msgid "More Fonts and Colors"
+msgstr "Más Fuentes y Colores"
+
+#: inc/get-started/get-started.php:80
+msgid "Multiple templates"
+msgstr "Múltiples plantillas"
+
+#: inc/get-started/get-started.php:81
+msgid "Multiple front page sections"
+msgstr "Múltiples secciones en la página de inicio"
+
+#: inc/get-started/get-started.php:82
+msgid "Woocommerce support"
+msgstr "Soporte para Woocommerce"
+
+#: inc/get-started/get-started.php:83
+msgid "Premium support"
+msgstr "Soporte Premium"
+
+#: inc/get-started/get-started.php:84
+msgid "SEO optimization"
+msgstr "Optimización SEO"
+
+#: inc/get-started/get-started.php:85
+msgid "Speed optimization"
+msgstr "Optimización de Velocidad"
+
+#: inc/get-started/get-started.php:86
+msgid "Browser compatibility"
+msgstr "Compatibilidad con Navegadores"
+
+#: inc/icon-function.php:26
+msgid "Please define default parameters in the form of an array."
+msgstr "Por favor, define los parámetros predeterminados en forma de array."
+
+#: inc/icon-function.php:31
+msgid "Please define an SVG icon filename."
+msgstr "Por favor, define un nombre de archivo para el ícono SVG."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Instalar Plugins Requeridos"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Instalar Plugins"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Instalando Plugin: %s"
+
+#. translators: %s: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando Plugin: %s"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema requiere el siguiente plugin: %1$s."
+msgstr[1] "Este tema requiere los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s.""
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:346
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+"El siguiente complemento necesita actualizarse a su última versión para asegurar "
+"a máxima compatibilidad con este tema: %1$s."
+msgstr[1] ""
+"Los siguientes complementos necesitan actualizarse a su última versión para asegurar "
+"a máxima compatibilidad con este tema: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin requerido está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins requeridos están actualmente inactivos: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente inactivo: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente inactivos: %1$s."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar los plugins"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar a actualizar el plugin"
+msgstr[1] "Comenzar a actualizar los plugins"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar el plugin"
+msgstr[1] "Comenzar a activar los plugins"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al Instalador de Plugins Requeridos"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:386
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:827
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al Tablero"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:387
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activado con éxito."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:388
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin fue activado con éxito:"
+msgstr[1] "Los siguientes plugins fueron activados con éxito:"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se tomó ninguna acción. El plugin %1$s ya estaba activo."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:392
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"Plugin no activado. Se necesita una versión más alta de %s para este tema. "
+"Por favor, actualice el plugin."
+
+#. translators: 1: dashboard link.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins se instalaron y activaron con éxito. %1$s"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar esta notificación"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"Hay uno o más plugins requeridos o recomendados para instalar, actualizar o"
+"activar."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, contacte al administrador de este sitio para obtener ayuda."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin necesita actualizarse para ser compatible con su tema."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización Requerida"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"El paquete del plugin remoto no contiene una carpeta con el slug deseado "
+"y renombrarla no funcionó."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:934
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"Por favor, contacte al proveedor del plugin y pídale que empaquete su plugin de "
+"acuerdo con las directrices de WordPress."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"El paquete del plugin remoto consiste en más de un archivo, pero los archivos "
+"no están empaquetados en una carpeta."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1121
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#. translators: %s: version number
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Requerido"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente Externa"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No Instalado"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado Pero No Activado"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activo"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "Actualización Requerida No Disponible"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requiere Actualización"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización Recomendada"
+
+#. translators: 1: install status, 2: update status
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class="count">(%s)</span>"
+msgstr[1] "Todos <span class="count">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Por Instalar <span class="count">(%s)</span>"
+msgstr[1] "Por Instalar <span class="count">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización Disponible <span class="count">(%s)</span>"
+msgstr[1] "Actualización Disponible <span class="count">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Por Activar <span class="count">(%s)</span>"
+msgstr[1] "Por Activar <span class="count">(%s)</span>"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima requerida:"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins para instalar, actualizar o activar."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipo"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se seleccionaron plugins para ser instalados. No se tomó ninguna acción."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se seleccionaron plugins para ser actualizados. No se tomó ninguna acción."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No hay plugins disponibles para ser instalados en este momento."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No hay plugins disponibles para ser actualizados en este momento."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se seleccionaron plugins para ser activados. No se tomó ninguna acción."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No hay plugins disponibles para ser activados en este momento."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "La activación del plugin falló."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando Plugin %1$s (%2$d/%3$d)"
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ocurrió un error al instalar %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s falló."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"El proceso de instalación y activación está comenzando. Este proceso puede tardar un "
+"poco en algunos hosts, así que por favor sea paciente."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s instalado y activado con éxito."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar Detalles"
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3509
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar Detalles"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y Activando el Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"El proceso de instalación está comenzando. Este proceso puede tardar un poco "
+"en algunos hosts, así que por favor sea paciente."
+
+#. translators: 1: plugin name.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s instalado con éxito."
+
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm-plugin/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el Plugin %1$s (%2$d/%3$d)"
+
+#: inc/tgm/tgm.php:11
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404 Page"
+msgstr "Página 404"
+
+#: patterns/404.php:12
+msgid "Oops! That page cannot be found"
+msgstr "¡Ups! No se puede encontrar esa página"
+
+#: patterns/about-section.php
+msgctxt "Pattern title"
+msgid "About Section"
+msgstr "Sección Acerca de"
+
+#: patterns/about-section.php:16
+msgid "We Are Here To Help You To Fulfil"
+msgstr "Estamos Aquí para Ayudarte a Cumplir"
+
+#: patterns/about-section.php:16
+msgid "Your Dreams!"
+msgstr "¡Tus Sueños!"
+
+#: patterns/about-section.php:22
+msgid "About us"
+msgstr "Acerca de Nosotros"
+
+#: patterns/about-section.php:32
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum dolore eu fugiat nulla pariatur."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo "
+"consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse "
+"cillum dolore eu fugiat nulla pariatur."
+
+#: patterns/about-section.php:42
+msgid "visit Us"
+msgstr "Visítanos"
+
+#: patterns/about-section.php:52
+msgid "Work Out"
+msgstr "Ejercicio"
+
+#: patterns/about-section.php:62
+msgid "Get Result"
+msgstr "Obtener Resultados"
+
+#: patterns/archive-header-with-background.php
+msgctxt "Pattern title"
+msgid "Archive Header With Background"
+msgstr "Encabezado de Archivo Con Fondo"
+
+#: patterns/default-header.php
+msgctxt "Pattern title"
+msgid "Default Header"
+msgstr "Encabezado Predeterminado"
+
+#: patterns/footer-columns.php
+msgctxt "Pattern title"
+msgid "Footer Columns"
+msgstr "Columnas del Pie de Página"
+
+#: patterns/footer-columns.php:12
+msgid "Contact"
+msgstr "Contacto"
+
+#: patterns/footer-columns.php:21
+msgid "123456789"
+msgstr "123456789"
+
+#: patterns/footer-columns.php:31
+msgid "info@example.com"
+msgstr "info@example.com"
+
+#: patterns/footer-columns.php:41
+msgid "No. 22 B, Street 123, New York,MD, USA. 4410"
+msgstr " No. 22 B, Calle 123, Nueva York, MD, EE. UU"
+
+#: patterns/footer-columns.php:46
+msgid "Monday - Saturday : 10 am to 05 pm"
+msgstr "Lunes - Sábado: 10 am a 5 pm"
+
+#: patterns/footer-columns.php:50
+msgid "Sunday : Closed"
+msgstr "Domingo: Cerrado"
+
+#: patterns/footer-columns.php:58
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore Lorem ipsum dolor sit amet, consectetur "
+"adipiscing elit."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore Lorem ipsum dolor sit amet, consectetur "
+"adipiscing elit."
+
+#: patterns/footer-columns.php:78
+msgid "Search Here"
+msgstr "Busca Aquí"
+
+#: patterns/footer-columns.php:82
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+msgstr "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+
+#: patterns/footer-columns.php:101
+msgid "All Rights Reserved."
+msgstr "Todos los Derechos Reservados."
+
+#: patterns/footer-columns.php:105
+msgid "Cookies Setting | Privacy Policy | Terms And Conditions"
+msgstr "Configuración de Cookies | Política de Privacidad | Términos y Condiciones"
+
+#: patterns/main-banner.php
+msgctxt "Pattern title"
+msgid "Main Banner"
+msgstr "Banner Principal"
+
+#: patterns/main-banner.php:14
+msgid "Ultimate Cross-fit Facility"
+msgstr "Instalación de Crossfit Definitiva"
+
+#: patterns/main-banner.php:18
+msgid "Build Your Body Strong By"
+msgstr "Fortalece tu Cuerpo al"
+
+#: patterns/main-banner.php:18
+msgid "Joining Us!"
+msgstr "¡Unirte a Nosotros!"
+
+#: patterns/main-banner.php:23
+msgid "Learn More"
+msgstr "Aprende Más"
+
+#: patterns/main-banner.php:34
+msgid "#coach"
+msgstr "#entrenador"
+
+#: patterns/main-banner.php:38
+msgid "#fitness"
+msgstr "#fitness"
+
+#: patterns/main-banner.php:46
+msgid "#sport"
+msgstr "#deporte"
+
+#: patterns/main-banner.php:50
+msgid "#workout"
+msgstr "#ejercicio"
+
+#: patterns/main-banner.php:54
+msgid "#steambath"
+msgstr "#bañodevapor"
+
+#: patterns/main-banner.php:58
+msgid "#personal"
+msgstr "#personal"
+
+#: patterns/main-header.php
+msgctxt "Pattern title"
+msgid "Main Header"
+msgstr "Encabezado Principal"
+
+#: patterns/main-header.php:10
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+msgstr ""
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod "
+"tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, "
+"quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+
+#: patterns/main-header.php:55
+msgid "Get A Quote"
+msgstr "Solicitar una Cotización"
+
+#: patterns/post-header-with-background.php
+msgctxt "Pattern title"
+msgid "Post Header With Background"
+msgstr "Encabezado de Publicación con Fondo"
+
+#: patterns/recent-blog.php
+msgctxt "Pattern title"
+msgid "Recent Blog"
+msgstr "Blog Reciente"
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/search.php:42
+msgid "Sorry Nothing Found. Try searching..!!"
+msgstr "Lo siento, no se encontró nada. ¡Intenta buscar de nuevo!"
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: patterns/sidebar.php:10
+msgid "Search"
+msgstr "Buscar"
+
+#: patterns/sidebar.php:18
+msgid "About"
+msgstr "Acerca de"
+
+#: patterns/sidebar.php:22
+msgid ""
+"Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, "
+"when an unknown prmontserrat took a galley of type and scrambled it to make "
+"a type specimen book."
+msgstr ""
+"Lorem Ipsum ha sido el texto de marcador de posición estándar de la industria desde el siglo XVI, "
+"cuando un impresor desconocido tomó una galera de tipos y la desordenó para hacer "
+"un libro de muestras tipográficas."
+
+#: patterns/sidebar.php:26
+msgid ""
+"Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, "
+"when an unknown prmontserrat took a galley of type and scrambled it to make "
+"a type specimen book. It has survived not only five centuries, but also the "
+"leap into electronic typesetting, remaining essentially unchanged."
+msgstr ""
+"Lorem Ipsum ha sido el texto de marcador de posición estándar de la industria desde el siglo XVI, "
+"cuando un impresor desconocido tomó una galera de tipos y la desordenó para hacer "
+"un libro de muestras tipográficas. Ha sobrevivido no solo cinco siglos, sino también el "
+"salto a la composición tipográfica electrónica, permaneciendo esencialmente inalterado."
+
+#: patterns/sidebar.php:32
+msgid "Archive"
+msgstr "Archivo"
+
+#: patterns/sidebar.php:40
+msgid "Categories"
+msgstr "Categorías"
+
+#: patterns/sidebar.php:48
+msgid "Recent Posts"
+msgstr "Publicaciones Recientes"
+
+#: patterns/sidebar.php:56
+msgid "Tags"
+msgstr "Etiquetas"
+
+#: patterns/sidebar.php:64
+msgid "Social Icons"
+msgstr "Íconos Sociales"
+
+#: patterns/sidebar.php:82
+msgid "Gallery"
+msgstr "Galería"
+
+#: styles/brown.json
+msgctxt "Style variation name"
+msgid "Brown"
+msgstr "Marrón"
+
+#: styles/brown.json styles/dark.json styles/green.json styles/orange.json
+#: styles/peach.json styles/purple.json theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr "Primario"
+
+#: styles/brown.json styles/dark.json styles/green.json styles/orange.json
+#: styles/peach.json styles/purple.json theme.json
+msgctxt "Color name"
+msgid "Heading"
+msgstr "Encabezado"
+
+#: styles/brown.json styles/dark.json styles/green.json styles/orange.json
+#: styles/peach.json styles/purple.json theme.json
+msgctxt "Color name"
+msgid "Body Text"
+msgstr "Texto del Cuerpo"
+
+#: styles/brown.json styles/dark.json styles/green.json styles/orange.json
+#: styles/peach.json styles/purple.json theme.json
+msgctxt "Color name"
+msgid "Tertiary Text Color"
+msgstr "Color de Texto Terciario"
+
+#: styles/brown.json styles/dark.json styles/green.json styles/orange.json
+#: styles/peach.json styles/purple.json theme.json
+msgctxt "Color name"
+msgid "Tertiary Bg Color"
+msgstr "Color de Fondo Terciario"
+
+#: styles/brown.json styles/dark.json styles/green.json styles/orange.json
+#: styles/peach.json styles/purple.json theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr "Color del Borde"
+
+#: styles/brown.json styles/dark.json styles/green.json styles/orange.json
+#: styles/peach.json styles/purple.json theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr "Fondo"
+
+#: styles/brown.json styles/dark.json styles/green.json styles/orange.json
+#: styles/peach.json styles/purple.json theme.json
+msgctxt "Color name"
+msgid "Foreground"
+msgstr "Primer Plano"
+
+#: styles/dark.json
+msgctxt "Style variation name"
+msgid "Dark"
+msgstr "Oscuro"
+
+#: styles/green.json
+msgctxt "Style variation name"
+msgid "Green"
+msgstr "Verde"
+
+#: styles/orange.json
+msgctxt "Style variation name"
+msgid "Orange"
+msgstr "Naranja"
+
+#: styles/peach.json
+msgctxt "Style variation name"
+msgid "Peach"
+msgstr "Durazno"
+
+#: styles/purple.json
+msgctxt "Style variation name"
+msgid "Purple"
+msgstr "Púrpura"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr "Inter"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Jockey One"
+msgstr "Jockey One"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr "Poppins"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Kalam"
+msgstr "Kalam"
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Irish Grover"
+msgstr "Irish Grover"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Tiny"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr "Extra Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr "Pequeño"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr "Mediano"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Upper Heading"
+msgstr "Encabezado Superior"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Normal"
+msgstr "Normal"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Content Heading"
+msgstr "Encabezado de Contenido"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Site Title"
+msgstr Título del Sitio"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Post Title"
+msgstr "Título de la Publicación"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr "Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra large"
+msgstr "Extra Grande"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Semi Huge"
+msgstr "Semi Gigante"
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge (Display)"
+msgstr "Gigante (Visualización)"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Foreground and background"
+msgstr "Primer Plano y Fondo"
+
+#: theme.json
+msgctxt "Duotone name"
+msgid "Primary and Heading"
+msgstr "Primario y Encabezado"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical foreground to background"
+msgstr "Primer plano vertical a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Vertical background to foreground"
+msgstr "Fondo vertical a primer plano"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to foreground"
+msgstr "Diagonal primario a primer plano"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to background"
+msgstr "Diagonal primario a fondo"
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Diagonal primary to heading"
+msgstr "Diagonal primario a encabezado"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr "Encabezado"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Main Header"
+msgstr "Encabezado Principal"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr "Pie de Página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer Columns"
+msgstr "Columnas del Pie de Página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Post Content"
+msgstr "Contenido de la Publicación"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Page Content"
+msgstr "Contenido de la Página"
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr "Barra Lateral"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blank"
+msgstr "En Blanco"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Right)"
+msgstr "Publicación Única (Barra Lateral a la Derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (Sidebar on Left)"
+msgstr "Publicación Única (Barra Lateral a la Izquierda)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Post (No Sidebar)"
+msgstr "Publicación Única (Sin Barra Lateral)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Right)"
+msgstr "Página Única (Barra Lateral a la Derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Single Page (Sidebar on Left)"
+msgstr "Página Única (Barra Lateral a la Izquierda)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page (No Title / Feature Image)"
+msgstr "Página (Sin Título / Imagen Destacada)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Right Sidebar)"
+msgstr "Página de Blog (Barra Lateral Derecha)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (Left Sidebar)"
+msgstr "Página de Blog (Barra Lateral Izquierda)"
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Blog Page (No Sidebar)"
+msgstr "Página de Blog (Sin Barra Lateral)"
