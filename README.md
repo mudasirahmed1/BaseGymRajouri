@@ -1,1 +1,1 @@
-# basegymrajouri
+basegymrajouri.me
